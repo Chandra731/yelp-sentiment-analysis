@@ -8,7 +8,7 @@ The project uses the Yelp reviews dataset, which includes:
 
 * Star rating (1-5)
 * Review text
-* Other user-related information (optional for exploration)
+* Other user-related information
 
 ## Methodology
 
